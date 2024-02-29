@@ -1,0 +1,9 @@
+query ListNotes {
+  listNotes {
+    items {
+      id
+      name
+      description
+    }
+  }
+}

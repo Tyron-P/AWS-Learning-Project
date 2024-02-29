@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "awslearningprojectf77bb715": {}
+      },
+      "api": {
+        "awslearningproject": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
